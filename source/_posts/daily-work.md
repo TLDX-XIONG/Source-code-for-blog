@@ -6,7 +6,7 @@ tags:
     - daily affairs
 categories: 
         - affairs
-comment: true
+comments: true
 ---
 <center>
 

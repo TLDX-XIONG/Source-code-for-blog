@@ -6,7 +6,7 @@ tags:
     - linprog
 categories: 
         - Matlab
-comment: true
+comments: true
 ---
 ### <center> WHAT I LEARN TODAY</center>
 #### 1. `hist` 函数用法

@@ -2,7 +2,7 @@
 title: about
 date: 2019-11-09 21:41:26
 type: about
-comment: false
+comments: false
 ---
 ### <center>ABOUT ME</center>
 - 对 WEB 前端充满热爱

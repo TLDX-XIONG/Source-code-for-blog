@@ -7,7 +7,7 @@ tags:
     - Loop
 categories:
     - lingo
-comment: true
+comments: true
 ---
 ### <center>USAGE OF LINGO</center>
 lingo 软件用于是解决规划问题的极佳求解工具，本文将简单介绍 lingo 的使用方法和语法。
